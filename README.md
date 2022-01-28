@@ -1,5 +1,11 @@
 # Hello, my name is Daniel Cárdenas Rodríguez
 ### Software Developer
+
+I am passionate about everything related to technology and their derivatives.
+
+I am in constant search of new things, and therefore I never stop learning.
+
+I have skills in Python, JavaScript, NodeJs, Linux Server Administration, SQL, PostgreSQL, Git & GitHub, HTML5, CSS-3
 <!--
 **danicrdev/danicrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
