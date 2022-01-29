@@ -27,6 +27,8 @@ I'm in constant search of new things, and therefore I never stop learning :orang
 <div>  
   <a href="https://www.linkedin.com/in/danicrdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Danicrdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  ![Snake animation](https://github.com/danicrdev/danicrdev/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+![Snake animation](https://github.com/danicrdev/danicrdev/blob/output/github-contribution-grid-snake.svg)
+
  
