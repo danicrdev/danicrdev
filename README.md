@@ -1,9 +1,9 @@
-# Hello, my name is Daniel Cárdenas Rodríguez :pushpin:
+## Hi, I'm Daniel :pushpin:
 ### Software Developer :floppy_disk:
 
-I'm passionate about everything related to technology and their derivatives :computer:
+##### I'm passionate about everything related to technology and their derivatives :computer:
 
-I'm in constant search of new things, and therefore I never stop learning :orange_book:
+##### I'm in constant search of new things, and therefore I never stop learning :orange_book:
 
 <div align="left">
   <a href="https://github.com/danicrdev">
