@@ -7,9 +7,11 @@ I'm in constant search of new things, and therefore I never stop learning :orang
 
 <div align="left">
   <a href="https://github.com/danicrdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicrdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicrdev&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicrdev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicrdev&layout=compact&langs_count=7&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
+  
+  ## Skills
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
